@@ -1,0 +1,25 @@
+{
+  "name": "mmm-amazon-photos-slideshow",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fl4v/mmm-amazon-photos-slideshow.git"
+  },
+  "author": "Fl4v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fl4v/mmm-amazon-photos-slideshow/issues"
+  },
+  "homepage": "https://github.com/Fl4v/mmm-amazon-photos-slideshow#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "jest": "^27.5.1",
+    "node": "^16.14.2",
+    "prettier": "^2.6.2"
+  }
+}
